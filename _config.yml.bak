@@ -2,8 +2,8 @@
 # Theme Customization #
 #######################
 
-title: J. Bravo          # appears in the header and the HTML <title> tag
-author: Johnny Bravo     # appears in an HTML <meta> tag, as well as feed.xml
+title: 我的博客          # appears in the header and the HTML <title> tag
+author: Wang     # appears in an HTML <meta> tag, as well as feed.xml
 description: >           # appears in an HTML <meta> tag, as well as feed.xml
   Hello 911 emergency, there's a handsome guy in my house!
   Oh wait a second, cancel that. It's only me.
@@ -35,7 +35,7 @@ nav_menu:
 
 # Objects listed here will appear on the /projects.html page.
 projects:
-  - title: Solana
+  - title: SpannableString的使用
     teaser: A responsive blog template written in Sass and vanilla JavaScript.
     url: https://github.com/wblogs/wblogs.github.io
     role: Creator
