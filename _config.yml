@@ -36,10 +36,10 @@ nav_menu:
 # Objects listed here will appear on the /projects.html page.
 projects:
   - title: SpannableString
-    teaser: A responsive blog template written in Sass and vanilla JavaScript.
+    teaser: 关于SpannableString属性详细介绍以及利用SpannableString显示多种文本效果。
     url: https://github.com/wblogs/SpannableString-master
     role: Creator
-    category: Frontend Dev
+    category: Android Dev
   - title: Cortana
     teaser: A talking robot. Now available on Google Play?
     url: https://play.google.com/store/apps/details?id=com.microsoft.cortana
